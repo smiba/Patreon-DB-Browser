@@ -3,7 +3,7 @@
 require_once('database.php');
 ?>
 <!-- Shitty html form from the internet because I suck at html -->
-Please enter at least one flied to start the search.<br/><br/>
+Please enter at least one field to start the search.<br/><br/>
 <form name="htmlform" method="post" action="index.php">
 <table width="450px">
 </tr>
