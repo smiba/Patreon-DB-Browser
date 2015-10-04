@@ -2,6 +2,7 @@
 //Setup SQL connection
 require_once('database.php');
 ?>
+<b>Patreon - Database Search</b> - <a href='https://github.com/smiba/Patreon-DB-Browser'>Github</a><br/>
 <!-- Shitty html form from the internet because I suck at html -->
 Please enter at least one field to start the search.<br/><br/>
 <form name="htmlform" method="post" action="index.php">
